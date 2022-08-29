@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ## Stats
-[![Corinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=corcanavan&show_icons=true&theme=radical)](https://github.com/corcanavan/github-readme-stats)
+[![Corinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=corcanavan&hide=stars&show_icons=true&theme=radical)](https://github.com/corcanavan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corcanavan&layout=compact&theme=radical)](https://github.com/corcanavan/github-readme-stats)
