@@ -1,7 +1,5 @@
 ### Hi there! I'm Corinne (she/her) 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corinnecanavan/)
-
 <!--
 **CorCanavan/CorCanavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +17,13 @@ Here are some ideas to get you started:
 
 👩‍💻 I'm a Front End Software Developer with a background in media/marketing and veterinary industries. 
 
-I am an avid learner that loves being challenged to think about the world, or the task at hand, in new ways. Software development allows me to approach problems creatively, reminds me to stay curious, and encourages me to collaborate and ask questions. 
+📚 I am an avid learner that loves being challenged to think about the world, or the task at hand, in new ways. Software development allows me to approach problems creatively, reminds me to stay curious, and encourages me to collaborate and ask questions. 
 
-### Technologies 
+✨ I am excited about my new adventure into software development and aim to leverage my background to create experiences for people through a digital medium that can enhance their lives.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corinnecanavan/)
+
+### Technologies:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,10 +35,10 @@ I am an avid learner that loves being challenged to think about the world, or th
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-### Currently Learning
+### Currently Learning:
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
-### Stats
+### Stats:
 [![Corinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=corcanavan&hide=stars&show_icons=true&theme=radical)](https://github.com/corcanavan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corcanavan&layout=compact&theme=radical)](https://github.com/corcanavan/github-readme-stats)
