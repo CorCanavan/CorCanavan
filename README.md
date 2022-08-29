@@ -1,4 +1,4 @@
-### Hi there! I'm Corinne (she/her) 👋
+## Hi there! I'm Corinne (she/her) 👋
 
 <!--
 **CorCanavan/CorCanavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 ✨ I am excited about my new adventure into software development and aim to leverage my background to create experiences for people through a digital medium that can enhance their lives.
 
+#### Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corinnecanavan/)
 
-### Technologies:
+## Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,10 +36,10 @@ Here are some ideas to get you started:
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-### Currently Learning:
+## Currently Learning
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
-### Stats:
-[![Corinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=corcanavan&hide=stars&show_icons=true&theme=radical)](https://github.com/corcanavan/github-readme-stats)
+## Stats
+[![Corinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=corcanavan&show_icons=true&theme=radical)](https://github.com/corcanavan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corcanavan&layout=compact&theme=radical)](https://github.com/corcanavan/github-readme-stats)
