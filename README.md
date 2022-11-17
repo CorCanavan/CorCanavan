@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 Front-end software developer with 8+ years of real-world, first-hand client experience in both a marketing capacity as well as direct customer interacton.
+👩‍💻 Front-end software developer with 8+ years of real-world, first-hand client experience in both a marketing capacity as well as direct customer interaction.
 
-📚 An avid learner that loves being challenged to think about the world, or the task at hand, in new ways. Software development allows me to approach problems creatively, reminds me to stay curious, and encourages me to collaborate and ask questions. Especially drawn to front-end architectural challenges.
+📚 An avid learner that loves being challenged to think about the world, or the task at hand, in new ways. Software development allows me to approach problems creatively and encourages me to collaborate and ask questions; especially drawn to front-end architectural challenges.
 
-✨ I am looking for an opportunity that allows me to be creative and deliver on meaningful projects. I aim to leverage my background and skill set to create experiences for people through a digital medium that can enhance their lives.
+✨ I am looking for an opportunity that allows me to stay curious and deliver on meaningful projects. I aim to leverage my background and skill set to create experiences for people through a digital medium that can enhance their lives.
 
 #### Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corinnecanavan/)
