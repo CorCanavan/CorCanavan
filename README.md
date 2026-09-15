@@ -15,33 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 Front-end software developer with 8+ years of real-world, first-hand client experience in both a marketing capacity as well as direct customer interaction.
+I'm a front-end engineer who took the scenic route through advertising, marketing, and veterinary medicine before finding my way to software.
 
-📚 An avid learner that loves being challenged to think about the world, or the task at hand, in new ways. Software development allows me to approach problems creatively and encourages me to collaborate and ask questions; especially drawn to front-end architectural challenges.
+I've spent the last three-plus years building production applications with React and TypeScript. I love learning how things work, asking approximately one million questions, and understanding everything around the code too - product, business, people, all of it.
 
-✨ I am looking for an opportunity that allows me to stay curious and deliver on meaningful projects. I aim to leverage my background and skill set to create experiences for people through a digital medium that can enhance their lives.
+Mostly living in React, TypeScript, Next.js, and React Query these days, with a soft spot for accessibility and anything that makes the person on the other end of the screen a little less invisible.
+
+**Currently:** getting deeper into front-end architecture, learning new technologies across the stack, building in public again, and continuing to explore AI - I'm paying close attention to how AI is changing what we build and how we build it.
+
+Still very interested in the humans on the other side of all this technology.
+
+Still very interested in horses, too. 🐴
+
+---
+
+**Where I've actually been coding:** Most of my professional work is in private company repos. SigmaTech lived in GitLab, and my InvestiFi work lives in private repositories under a [separate employer-associated GitHub account](https://github.com/CorinneCanavan).
 
 #### Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corinnecanavan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corinne.canavan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5C8001?style=for-the-badge)](https://terminal.turing.edu/profiles/1482)
 
-## Technologies
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-
-## Currently Learning
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-
-## Stats
-[![Corinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=corcanavan&hide=stars&show_icons=true&theme=radical)](https://github.com/corcanavan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corcanavan&layout=compact&theme=radical)](https://github.com/corcanavan/github-readme-stats)
