@@ -37,5 +37,5 @@ Still very interested in horses, too.<br>
 ---
 
 
-<sup>**quick lil FYI**: Most of my professional work is in private company repos. SigmaTech lived in GitLab, and
-my InvestiFi work lives under a separate employer-associated [account](https://github.com/CorinneCanavan) 😎 </sup>
+<sup>fyi most of my professional work is in private company repos. SigmaTech lived in GitLab, and
+my recent InvestiFi work lives under a separate employer-associated [account](https://github.com/CorinneCanavan) 😎 </sup>
