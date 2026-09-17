@@ -25,14 +25,17 @@ Mostly living in React, TypeScript, Next.js, and React Query these days, with a 
 
 Still very interested in the humans on the other side of all this technology.
 
-Still very interested in horses, too. 🐴
+Still very interested in horses, too.<br>
 
----
-
-**FYI** Most of my professional work is in private company repos. SigmaTech lived in GitLab, and my InvestiFi work lives in private repositories under a [separate employer-associated GitHub account](https://github.com/CorinneCanavan).
+🐴
 
 #### Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corinnecanavan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corinne.canavan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5C8001?style=for-the-badge)](https://terminal.turing.edu/profiles/1482)
 
+---
+
+
+<sup>**quick lil FYI**: Most of my professional work is in private company repos. SigmaTech lived in GitLab, and
+my InvestiFi work lives under a separate employer-associated [account](https://github.com/CorinneCanavan) 😎 </sup>
